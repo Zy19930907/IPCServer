@@ -1,0 +1,9 @@
+package com.fmkj.fx
+
+import javafx.scene.layout.AnchorPane
+
+component LogViewer {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}
